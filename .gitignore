@@ -2,3 +2,5 @@
 !excanvas.min.js
 *.gem
 *.*~
+
+.DS_Store
